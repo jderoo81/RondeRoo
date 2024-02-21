@@ -23,7 +23,7 @@ function App() {
               ></img>
             </div>
             <PersonalTitle></PersonalTitle>
-            <br></br>
+            <hr></hr>
             <Profile></Profile>
             <br></br>
             <Contact></Contact>
